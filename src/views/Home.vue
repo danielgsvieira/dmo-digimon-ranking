@@ -1,18 +1,17 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <digimon-table></digimon-table>
 </template>
 
-<script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+<script lang="ts">
+import Vue from 'vue';
+import DigimonTable from '../components/DigimonTable.vue';
 
-export default {
-  name: 'Home',
+export default Vue.extend({
   components: {
-    HelloWorld,
+    'digimon-table': DigimonTable,
   },
-};
+  data: () => ({
+    search: '',
+  }),
+});
 </script>
