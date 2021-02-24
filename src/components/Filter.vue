@@ -110,13 +110,13 @@ export default Vue.extend({
         ],
       },
       {
-        text: 'Basic Attribute',
-        categoryAttribute: 'basicAttribute',
+        text: 'Attribute',
+        categoryAttribute: 'attribute',
         categoryItems: ['None', 'Virus', 'Vaccine', 'Data', 'Unknown'],
       },
       {
         text: 'Elemental Attribute',
-        categoryAttribute: 'attribute',
+        categoryAttribute: 'elementalAttribute',
         categoryItems: [
           'Land',
           'Fire',
