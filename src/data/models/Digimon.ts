@@ -1,12 +1,12 @@
-export type Rank = 'A' | 'A+' | 'S' | 'S+' | 'SS' | 'SS+' | 'SSS' | 'SSS+';
+import { Rank } from './Rank';
 
-export type BasicAttribute = 'None'
+export type Attribute = 'None'
   | 'Virus'
   | 'Vaccine'
   | 'Data'
   | 'Unknown';
 
-export type Attribute = 'Land'
+export type ElementalAttribute = 'Land'
   | 'Fire'
   | 'Ice'
   | 'Light'
@@ -39,7 +39,7 @@ export type DigimonForm = 'Rookie'
 | 'Jogress X';
 
 export interface DigimonInterface {
-  link: string;
+  url: string;
   rank: Rank;
   form?: DigimonForm;
   name?: string;
@@ -51,12 +51,12 @@ export interface DigimonInterface {
   ht?: number;
   de?: number;
   ev?: number;
-  basicAttribute?: BasicAttribute;
   attribute?: Attribute;
+  elementalAttribute?: ElementalAttribute;
 }
 
 export class Digimon {
-  link: string;
+  url: string;
 
   rank: Rank;
 
@@ -80,12 +80,12 @@ export class Digimon {
 
   ev: number;
 
-  basicAttribute: BasicAttribute;
-
   attribute: Attribute;
 
+  elementalAttribute: ElementalAttribute;
+
   constructor(data: DigimonInterface) {
-    this.link = data.link;
+    this.url = data.url;
     this.rank = data.rank;
     this.as = (data.as !== undefined) ? Number(data.as.toFixed(4)) : 0;
     this.at = (data.at !== undefined) ? Number(data.at.toFixed(4)) : 0;
@@ -97,8 +97,10 @@ export class Digimon {
     this.ht = (data.ht !== undefined) ? Number(data.ht.toFixed(4)) : 0;
     this.name = (data.name !== undefined) ? data.name : '';
     this.form = (data.form !== undefined) ? data.form : 'Rookie';
-    this.basicAttribute = (data.basicAttribute !== undefined) ? data.basicAttribute : 'None';
-    this.attribute = (data.attribute !== undefined) ? data.attribute : 'Neutral';
+    this.attribute = (data.attribute !== undefined) ? data.attribute : 'None';
+    this.elementalAttribute = (data.elementalAttribute !== undefined)
+      ? data.elementalAttribute
+      : 'Neutral';
   }
 
   get dps(): number {
