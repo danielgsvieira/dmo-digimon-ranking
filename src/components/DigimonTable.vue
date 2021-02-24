@@ -145,16 +145,16 @@ export default Vue.extend({
       const allDigimons: Digimon[] = this.$store.getters.digimons;
 
       return allDigimons.filter((digimon: Digimon) => {
-        const shownByRank = filters.rank[digimon.rank];
+        const shownByRank = filters.rank[digimon.rank.name];
         const shownByForm = filters.form[digimon.form];
-        const shownByBasicAttribute = filters.basicAttribute[digimon.basicAttribute];
         const shownByAttribute = filters.attribute[digimon.attribute];
+        const shownByElementalAttribute = filters.elementalAttribute[digimon.elementalAttribute];
 
         return (
           shownByRank
           && shownByForm
-          && shownByBasicAttribute
           && shownByAttribute
+          && shownByElementalAttribute
         );
       });
     },

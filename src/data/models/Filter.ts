@@ -7,6 +7,8 @@ export interface RankFilter {
   'SS+': boolean;
   SSS: boolean;
   'SSS+': boolean;
+  U: boolean;
+  'U+': boolean;
 }
 
 export interface FormFilter {
@@ -31,7 +33,7 @@ export interface FormFilter {
   'Jogress X': boolean;
 }
 
-export interface BasicAttributeFilter {
+export interface AttributeFilter {
   None: boolean;
   Virus: boolean;
   Vaccine: boolean;
@@ -39,7 +41,7 @@ export interface BasicAttributeFilter {
   Unknown: boolean;
 }
 
-export interface AttributeFilter {
+export interface ElementalAttributeFilter {
   Land: boolean;
   Fire: boolean;
   Ice: boolean;
@@ -63,6 +65,8 @@ export class Filter {
     'SS+': true,
     SSS: true,
     'SSS+': true,
+    U: true,
+    'U+': true,
   };
 
   form: FormFilter = {
@@ -87,7 +91,7 @@ export class Filter {
     'Jogress X': true,
   };
 
-  basicAttribute: BasicAttributeFilter = {
+  attribute: AttributeFilter = {
     None: true,
     Virus: true,
     Vaccine: true,
@@ -95,7 +99,7 @@ export class Filter {
     Unknown: true,
   };
 
-  attribute: AttributeFilter = {
+  elementalAttribute: ElementalAttributeFilter = {
     Land: true,
     Fire: true,
     Ice: true,
