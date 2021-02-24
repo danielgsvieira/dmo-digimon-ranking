@@ -63,7 +63,7 @@ export default Vue.extend({
         text: 'Rank',
         align: 'center',
         sortable: true,
-        value: 'rank',
+        value: 'rank.name',
       },
       {
         text: 'Form',
