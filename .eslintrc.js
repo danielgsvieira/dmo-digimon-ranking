@@ -16,5 +16,6 @@ module.exports = {
     'no-debugger': process.env.NODE_ENV === 'production' ? 'warn' : 'off',
     'preffer-destructing': 'off',
     'no-useless-constructor': 'off',
+    'import/prefer-default-export': 'off',
   },
 };

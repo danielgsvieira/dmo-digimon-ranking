@@ -6,6 +6,7 @@
           <v-row no-gutters>
             <span class="headline pl-3">Digimon Ranking</span>
             <v-spacer></v-spacer>
+            <tamer-stats></tamer-stats>
             <digimon-filter></digimon-filter>
           </v-row>
         </v-col>
@@ -34,8 +35,8 @@
       :search="search"
       class="elevation-1"
     >
-      <template v-slot:item.ct="{ item }">{{ toPercent(item.ct) }}</template>
-      <template v-slot:item.ev="{ item }">{{ toPercent(item.ev) }}</template>
+      <template v-slot:item.ct="{ item }">{{ toPercent(item.ct + tamerStats.ct) }}</template>
+      <template v-slot:item.ev="{ item }">{{ toPercent(item.ev + tamerStats.ev) }}</template>
     </v-data-table>
   </v-card>
 </template>
@@ -43,12 +44,15 @@
 <script lang="ts">
 import Vue from 'vue';
 import { Digimon } from '@/data/models/Digimon';
+import { TamerStats } from '@/data/models/TamerStats';
 import DigimonFilter from './Filter.vue';
+import TamerStatsComponent from './TamerStats.vue';
 import { Filter } from '../data/models/Filter';
 
 export default Vue.extend({
   components: {
     'digimon-filter': DigimonFilter,
+    'tamer-stats': TamerStatsComponent,
   },
   data: () => ({
     search: '',
@@ -157,6 +161,9 @@ export default Vue.extend({
           && shownByElementalAttribute
         );
       });
+    },
+    tamerStats(): TamerStats {
+      return this.$store.getters.tamerStats;
     },
   },
   methods: {
