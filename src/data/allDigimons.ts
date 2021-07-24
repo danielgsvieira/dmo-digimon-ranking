@@ -3043,7 +3043,7 @@ const allDigimons: DigimonInterface[] = [
   },
   {
     rank: 'S',
-    name: 'Z'dGarurumon',
+    name: 'Z\'dGarurumon',
     form: 'Side Mega',
     hp: 3390,
     ds: 1190,
