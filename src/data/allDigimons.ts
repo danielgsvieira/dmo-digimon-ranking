@@ -15,7 +15,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 328.636
+    dps: 328.636,
   },
   {
     rank: 'A',
@@ -31,7 +31,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 420.833
+    dps: 420.833,
   },
   {
     rank: 'A',
@@ -47,7 +47,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.6,
     attribute: 'Unknown',
     elementalAttribute: 'Steel',
-    dps: 334.912
+    dps: 334.912,
   },
   {
     rank: 'A',
@@ -63,7 +63,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 319.412
+    dps: 319.412,
   },
   {
     rank: 'A',
@@ -79,7 +79,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Data',
     elementalAttribute: 'Thunder',
-    dps: 319.474
+    dps: 319.474,
   },
   {
     rank: 'A',
@@ -95,7 +95,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.1,
     attribute: 'Virus',
     elementalAttribute: 'Ice',
-    dps: 282.5
+    dps: 282.5,
   },
   {
     rank: 'A',
@@ -111,7 +111,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Virus',
     elementalAttribute: 'Fire',
-    dps: 352.5
+    dps: 352.5,
   },
   {
     rank: 'A',
@@ -127,7 +127,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 335.6
+    dps: 335.6,
   },
   {
     rank: 'A',
@@ -143,7 +143,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.9,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 326
+    dps: 326,
   },
   {
     rank: 'A',
@@ -159,7 +159,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 373.75
+    dps: 373.75,
   },
   {
     rank: 'A',
@@ -175,7 +175,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.3,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 409.167
+    dps: 409.167,
   },
   {
     rank: 'A',
@@ -191,7 +191,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.7,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 348.636
+    dps: 348.636,
   },
   {
     rank: 'A',
@@ -207,7 +207,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 407.5
+    dps: 407.5,
   },
   {
     rank: 'A',
@@ -223,7 +223,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.1,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 345.5
+    dps: 345.5,
   },
   {
     rank: 'A',
@@ -239,7 +239,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 319.091
+    dps: 319.091,
   },
   {
     rank: 'A',
@@ -255,7 +255,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.1,
     attribute: 'Unknown',
     elementalAttribute: 'Steel',
-    dps: 316.08
+    dps: 316.08,
   },
   {
     rank: 'A',
@@ -271,7 +271,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.9,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 341.818
+    dps: 341.818,
   },
   {
     rank: 'A',
@@ -287,7 +287,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 24.4,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 358.889
+    dps: 358.889,
   },
   {
     rank: 'A',
@@ -303,7 +303,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 338.636
+    dps: 338.636,
   },
   {
     rank: 'A',
@@ -319,7 +319,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Unknown',
     elementalAttribute: 'Fire',
-    dps: 341.206
+    dps: 341.206,
   },
   {
     rank: 'A',
@@ -335,7 +335,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.9,
     attribute: 'Data',
     elementalAttribute: 'Wind',
-    dps: 305.294
+    dps: 305.294,
   },
   {
     rank: 'A',
@@ -351,7 +351,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 24.4,
     attribute: 'Vaccine',
     elementalAttribute: 'Thunder',
-    dps: 339.412
+    dps: 339.412,
   },
   {
     rank: 'A',
@@ -367,7 +367,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Vaccine',
     elementalAttribute: 'Steel',
-    dps: 328.636
+    dps: 328.636,
   },
   {
     rank: 'A',
@@ -383,7 +383,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 273
+    dps: 273,
   },
   {
     rank: 'A',
@@ -399,7 +399,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 420.833
+    dps: 420.833,
   },
   {
     rank: 'A',
@@ -415,7 +415,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Land',
-    dps: 337.895
+    dps: 337.895,
   },
   {
     rank: 'A',
@@ -431,7 +431,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 29.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 335.5
+    dps: 335.5,
   },
   {
     rank: 'A',
@@ -447,7 +447,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 24.7,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 307.5
+    dps: 307.5,
   },
   {
     rank: 'A',
@@ -463,7 +463,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 34.7,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 363.992
+    dps: 363.992,
   },
   {
     rank: 'A',
@@ -479,7 +479,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.7,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 336.667
+    dps: 336.667,
   },
   {
     rank: 'A',
@@ -495,7 +495,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 352.5
+    dps: 352.5,
   },
   {
     rank: 'A',
@@ -511,7 +511,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 29.4,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 391
+    dps: 391,
   },
   {
     rank: 'A',
@@ -527,7 +527,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 24.5,
     attribute: 'Unknown',
     elementalAttribute: 'Steel',
-    dps: 316.08
+    dps: 316.08,
   },
   {
     rank: 'A',
@@ -543,7 +543,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.3,
     attribute: 'Vaccine',
     elementalAttribute: 'Water',
-    dps: 324.118
+    dps: 324.118,
   },
   {
     rank: 'A',
@@ -559,7 +559,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.3,
     attribute: 'Vaccine',
     elementalAttribute: 'Steel',
-    dps: 341.818
+    dps: 341.818,
   },
   {
     rank: 'A',
@@ -575,7 +575,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.2,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 298.5
+    dps: 298.5,
   },
   {
     rank: 'A',
@@ -591,7 +591,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.1,
     attribute: 'Data',
     elementalAttribute: 'Ice',
-    dps: 282.5
+    dps: 282.5,
   },
   {
     rank: 'A',
@@ -607,7 +607,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.3,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 329.412
+    dps: 329.412,
   },
   {
     rank: 'A',
@@ -623,7 +623,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.3,
     attribute: 'Data',
     elementalAttribute: 'Water',
-    dps: 335.5
+    dps: 335.5,
   },
   {
     rank: 'A',
@@ -639,7 +639,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 341.5
+    dps: 341.5,
   },
   {
     rank: 'A',
@@ -655,7 +655,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 24.7,
     attribute: 'Data',
     elementalAttribute: 'Wind',
-    dps: 322.941
+    dps: 322.941,
   },
   {
     rank: 'A',
@@ -671,7 +671,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23,
     attribute: 'Vaccine',
     elementalAttribute: 'Water',
-    dps: 363.333
+    dps: 363.333,
   },
   {
     rank: 'A',
@@ -687,7 +687,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21,
     attribute: 'Vaccine',
     elementalAttribute: 'Steel',
-    dps: 338.636
+    dps: 338.636,
   },
   {
     rank: 'A',
@@ -703,7 +703,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 281
+    dps: 281,
   },
   {
     rank: 'A',
@@ -719,7 +719,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.9,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 336.667
+    dps: 336.667,
   },
   {
     rank: 'A',
@@ -735,7 +735,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Data',
     elementalAttribute: 'Land',
-    dps: 164.545
+    dps: 164.545,
   },
   {
     rank: 'A',
@@ -751,7 +751,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.7,
     attribute: 'Virus',
     elementalAttribute: 'Water',
-    dps: 338.636
+    dps: 338.636,
   },
   {
     rank: 'A',
@@ -767,7 +767,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.9,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 372
+    dps: 372,
   },
   {
     rank: 'A',
@@ -783,7 +783,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 24.7,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 307.5
+    dps: 307.5,
   },
   {
     rank: 'A',
@@ -799,7 +799,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.8,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 307.035
+    dps: 307.035,
   },
   {
     rank: 'A',
@@ -815,7 +815,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Wind',
-    dps: 313.158
+    dps: 313.158,
   },
   {
     rank: 'A',
@@ -831,7 +831,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.9,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 357.667
+    dps: 357.667,
   },
   {
     rank: 'A',
@@ -847,7 +847,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 29,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 379
+    dps: 379,
   },
   {
     rank: 'A',
@@ -863,7 +863,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 313
+    dps: 313,
   },
   {
     rank: 'A\t',
@@ -879,7 +879,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.9,
     attribute: ' \tData',
     elementalAttribute: ' \tPitch Black',
-    dps: 316
+    dps: 316,
   },
   {
     rank: 'A',
@@ -895,7 +895,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.3,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 411.6
+    dps: 411.6,
   },
   {
     rank: 'A',
@@ -911,7 +911,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 365
+    dps: 365,
   },
   {
     rank: 'A',
@@ -927,7 +927,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Unknown',
     elementalAttribute: 'Fire',
-    dps: 330.653
+    dps: 330.653,
   },
   {
     rank: 'A',
@@ -943,7 +943,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.8,
     attribute: 'Vaccine',
     elementalAttribute: 'Pitch Black',
-    dps: 328
+    dps: 328,
   },
   {
     rank: 'A',
@@ -959,7 +959,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Wind',
-    dps: 318.182
+    dps: 318.182,
   },
   {
     rank: 'A',
@@ -975,7 +975,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.1,
     attribute: 'Unknown',
     elementalAttribute: 'Steel',
-    dps: 325.011
+    dps: 325.011,
   },
   {
     rank: 'A',
@@ -991,7 +991,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Unknown',
     elementalAttribute: 'Steel',
-    dps: 302.857
+    dps: 302.857,
   },
   {
     rank: 'A',
@@ -1007,7 +1007,7 @@ const allDigimons: DigimonInterface[] = [
     ev: null,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: null
+    dps: null,
   },
   {
     rank: 'A',
@@ -1023,7 +1023,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.9,
     attribute: 'Virus',
     elementalAttribute: 'Wind',
-    dps: 341.364
+    dps: 341.364,
   },
   {
     rank: 'A',
@@ -1039,7 +1039,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.9,
     attribute: 'Virus',
     elementalAttribute: 'Fire',
-    dps: 336.667
+    dps: 336.667,
   },
   {
     rank: 'A',
@@ -1055,7 +1055,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.9,
     attribute: 'Vaccine',
     elementalAttribute: 'Ice',
-    dps: 336.667
+    dps: 336.667,
   },
   {
     rank: 'A',
@@ -1071,7 +1071,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 342.083
+    dps: 342.083,
   },
   {
     rank: 'A',
@@ -1087,7 +1087,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.9,
     attribute: 'Virus',
     elementalAttribute: 'Fire',
-    dps: 343.333
+    dps: 343.333,
   },
   {
     rank: 'A',
@@ -1103,7 +1103,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 32.8,
     attribute: 'Vaccine',
     elementalAttribute: 'Pitch Black',
-    dps: 307.059
+    dps: 307.059,
   },
   {
     rank: 'A',
@@ -1119,7 +1119,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 353.75
+    dps: 353.75,
   },
   {
     rank: 'A+',
@@ -1135,7 +1135,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 29.3,
     attribute: ' Virus',
     elementalAttribute: ' Wood',
-    dps: 427
+    dps: 427,
   },
   {
     rank: 'A+',
@@ -1151,7 +1151,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.3,
     attribute: 'Virus',
     elementalAttribute: 'Thunder',
-    dps: 398.192
+    dps: 398.192,
   },
   {
     rank: 'A+',
@@ -1167,7 +1167,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Data',
     elementalAttribute: 'Ice',
-    dps: 414.12
+    dps: 414.12,
   },
   {
     rank: 'A+',
@@ -1183,7 +1183,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.3,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 471.364
+    dps: 471.364,
   },
   {
     rank: 'A+',
@@ -1199,7 +1199,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.7,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 415
+    dps: 415,
   },
   {
     rank: 'A+',
@@ -1215,7 +1215,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Virus',
     elementalAttribute: 'Light',
-    dps: 506.383
+    dps: 506.383,
   },
   {
     rank: 'A+',
@@ -1231,7 +1231,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.6,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 478.182
+    dps: 478.182,
   },
   {
     rank: 'A+',
@@ -1247,7 +1247,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 502.222
+    dps: 502.222,
   },
   {
     rank: 'A+',
@@ -1263,7 +1263,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.6,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 449.259
+    dps: 449.259,
   },
   {
     rank: 'A+',
@@ -1279,7 +1279,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 32.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 361.333
+    dps: 361.333,
   },
   {
     rank: 'A+',
@@ -1295,7 +1295,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.9,
     attribute: 'Data',
     elementalAttribute: 'Water',
-    dps: 349.2
+    dps: 349.2,
   },
   {
     rank: 'A+',
@@ -1311,7 +1311,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 45.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Steel',
-    dps: 409.365
+    dps: 409.365,
   },
   {
     rank: 'A+',
@@ -1327,7 +1327,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 29.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 416.25
+    dps: 416.25,
   },
   {
     rank: 'A+',
@@ -1343,7 +1343,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Vaccine',
     elementalAttribute: 'Steel',
-    dps: 500.455
+    dps: 500.455,
   },
   {
     rank: 'A+',
@@ -1359,7 +1359,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 31.7,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 410.5
+    dps: 410.5,
   },
   {
     rank: 'A+',
@@ -1375,7 +1375,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.2,
     attribute: 'Virus',
     elementalAttribute: 'Wind',
-    dps: 505.909
+    dps: 505.909,
   },
   {
     rank: 'S',
@@ -1391,7 +1391,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 38.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 524.167
+    dps: 524.167,
   },
   {
     rank: 'S',
@@ -1407,7 +1407,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.9,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 526.8
+    dps: 526.8,
   },
   {
     rank: 'S',
@@ -1423,7 +1423,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.7,
     attribute: 'Data',
     elementalAttribute: 'Thunder',
-    dps: 587.917
+    dps: 587.917,
   },
   {
     rank: 'S',
@@ -1439,7 +1439,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 531.364
+    dps: 531.364,
   },
   {
     rank: 'S',
@@ -1455,7 +1455,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 38.8,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 535.945
+    dps: 535.945,
   },
   {
     rank: 'S',
@@ -1471,7 +1471,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 39.9,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 394
+    dps: 394,
   },
   {
     rank: 'S',
@@ -1487,7 +1487,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 538.75
+    dps: 538.75,
   },
   {
     rank: 'S',
@@ -1503,7 +1503,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.9,
     attribute: ' Vaccine',
     elementalAttribute: ' Steel',
-    dps: 592.5
+    dps: 592.5,
   },
   {
     rank: 'S',
@@ -1519,7 +1519,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 534.167
+    dps: 534.167,
   },
   {
     rank: 'S',
@@ -1535,7 +1535,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 40.1,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 567.727
+    dps: 567.727,
   },
   {
     rank: 'S',
@@ -1551,7 +1551,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.2,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 508.75
+    dps: 508.75,
   },
   {
     rank: 'S',
@@ -1567,7 +1567,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 41.1,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 492
+    dps: 492,
   },
   {
     rank: 'S',
@@ -1583,7 +1583,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 38.6,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 555.833
+    dps: 555.833,
   },
   {
     rank: 'S',
@@ -1599,7 +1599,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 597
+    dps: 597,
   },
   {
     rank: 'S',
@@ -1615,7 +1615,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 580
+    dps: 580,
   },
   {
     rank: 'S',
@@ -1631,7 +1631,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 41.1,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 472.105
+    dps: 472.105,
   },
   {
     rank: 'S',
@@ -1647,7 +1647,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 38.6,
     attribute: 'Data',
     elementalAttribute: 'Fire',
-    dps: 502.105
+    dps: 502.105,
   },
   {
     rank: 'S',
@@ -1663,7 +1663,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 24.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Water',
-    dps: 571.667
+    dps: 571.667,
   },
   {
     rank: 'S',
@@ -1679,7 +1679,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.7,
     attribute: 'Vaccine',
     elementalAttribute: 'Wind',
-    dps: 555.833
+    dps: 555.833,
   },
   {
     rank: 'S',
@@ -1695,7 +1695,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 38.6,
     attribute: 'Virus',
     elementalAttribute: 'Light',
-    dps: 516.818
+    dps: 516.818,
   },
   {
     rank: 'S',
@@ -1711,7 +1711,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.5,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 507.5
+    dps: 507.5,
   },
   {
     rank: 'S',
@@ -1727,7 +1727,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 517
+    dps: 517,
   },
   {
     rank: 'S',
@@ -1743,7 +1743,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Data',
     elementalAttribute: 'Pitch Black',
-    dps: 522
+    dps: 522,
   },
   {
     rank: 'S',
@@ -1759,7 +1759,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.3,
     attribute: 'Virus',
     elementalAttribute: 'Water',
-    dps: 560.964
+    dps: 560.964,
   },
   {
     rank: 'S',
@@ -1775,7 +1775,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 36.4,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 555.833
+    dps: 555.833,
   },
   {
     rank: 'S',
@@ -1791,7 +1791,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 38.6,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 555.833
+    dps: 555.833,
   },
   {
     rank: 'S',
@@ -1807,7 +1807,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 547.917
+    dps: 547.917,
   },
   {
     rank: 'S',
@@ -1823,7 +1823,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 32.8,
     attribute: 'Data',
     elementalAttribute: 'Ice',
-    dps: 560
+    dps: 560,
   },
   {
     rank: 'S',
@@ -1839,7 +1839,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27,
     attribute: 'Data',
     elementalAttribute: 'Light',
-    dps: 617.083
+    dps: 617.083,
   },
   {
     rank: 'S',
@@ -1855,7 +1855,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.6,
     attribute: ' Vaccine',
     elementalAttribute: ' Light',
-    dps: 640.4
+    dps: 640.4,
   },
   {
     rank: 'S',
@@ -1871,7 +1871,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.9,
     attribute: 'Virus',
     elementalAttribute: 'Wind',
-    dps: 546.5
+    dps: 546.5,
   },
   {
     rank: 'S',
@@ -1887,7 +1887,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23,
     attribute: 'Data',
     elementalAttribute: 'Water',
-    dps: 550.556
+    dps: 550.556,
   },
   {
     rank: 'S',
@@ -1903,7 +1903,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21,
     attribute: 'Data',
     elementalAttribute: 'Thunder',
-    dps: 531.364
+    dps: 531.364,
   },
   {
     rank: 'S',
@@ -1919,7 +1919,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Unknown',
     elementalAttribute: 'Pitch Black',
-    dps: 540
+    dps: 540,
   },
   {
     rank: 'S',
@@ -1935,7 +1935,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 31.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Wind',
-    dps: 624.783
+    dps: 624.783,
   },
   {
     rank: 'S',
@@ -1951,7 +1951,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.3,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 658.889
+    dps: 658.889,
   },
   {
     rank: 'S',
@@ -1967,7 +1967,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.7,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 574.5
+    dps: 574.5,
   },
   {
     rank: 'S',
@@ -1983,7 +1983,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.4,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 534.167
+    dps: 534.167,
   },
   {
     rank: 'S',
@@ -1999,7 +1999,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.5,
     attribute: 'Vaccine',
     elementalAttribute: 'Steel',
-    dps: 390
+    dps: 390,
   },
   {
     rank: 'S',
@@ -2015,7 +2015,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.9,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 453.333
+    dps: 453.333,
   },
   {
     rank: 'S',
@@ -2031,7 +2031,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: ' Unknown',
     elementalAttribute: ' Steel',
-    dps: 491.457
+    dps: 491.457,
   },
   {
     rank: 'S',
@@ -2047,7 +2047,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.8,
     attribute: ' Unknown',
     elementalAttribute: ' Steel',
-    dps: 632.802
+    dps: 632.802,
   },
   {
     rank: 'S',
@@ -2063,7 +2063,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.5,
     attribute: 'Data',
     elementalAttribute: 'Wind',
-    dps: 492.857
+    dps: 492.857,
   },
   {
     rank: 'S',
@@ -2079,7 +2079,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 41.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 508.333
+    dps: 508.333,
   },
   {
     rank: 'S',
@@ -2095,7 +2095,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 547.917
+    dps: 547.917,
   },
   {
     rank: 'S',
@@ -2111,7 +2111,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 43.4,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 500.909
+    dps: 500.909,
   },
   {
     rank: 'S',
@@ -2127,7 +2127,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 626.818
+    dps: 626.818,
   },
   {
     rank: 'S',
@@ -2143,7 +2143,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 585.6
+    dps: 585.6,
   },
   {
     rank: 'S',
@@ -2159,7 +2159,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 598.75
+    dps: 598.75,
   },
   {
     rank: 'S',
@@ -2175,7 +2175,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 32.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 564.583
+    dps: 564.583,
   },
   {
     rank: 'S',
@@ -2191,7 +2191,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 23.7,
     attribute: 'Data',
     elementalAttribute: 'Ice',
-    dps: 540
+    dps: 540,
   },
   {
     rank: 'S',
@@ -2207,7 +2207,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.3,
     attribute: 'Virus',
     elementalAttribute: 'Fire',
-    dps: 581.667
+    dps: 581.667,
   },
   {
     rank: 'S+',
@@ -2223,7 +2223,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 32.1,
     attribute: 'Data',
     elementalAttribute: 'Water',
-    dps: 748.889
+    dps: 748.889,
   },
   {
     rank: 'S+',
@@ -2239,7 +2239,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 41.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 733.333
+    dps: 733.333,
   },
   {
     rank: 'S+',
@@ -2255,7 +2255,7 @@ const allDigimons: DigimonInterface[] = [
     ev: null,
     attribute: 'Unknown',
     elementalAttribute: 'Pitch Black',
-    dps: null
+    dps: null,
   },
   {
     rank: 'S+',
@@ -2271,7 +2271,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.6,
     attribute: 'Unknown',
     elementalAttribute: 'Pitch Black',
-    dps: 706.667
+    dps: 706.667,
   },
   {
     rank: 'S+',
@@ -2287,7 +2287,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 32.6,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 541
+    dps: 541,
   },
   {
     rank: 'S+',
@@ -2303,7 +2303,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 706.667
+    dps: 706.667,
   },
   {
     rank: 'S+',
@@ -2319,7 +2319,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.9,
     attribute: ' Vaccine',
     elementalAttribute: ' Steel',
-    dps: 662
+    dps: 662,
   },
   {
     rank: 'S+',
@@ -2335,7 +2335,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.1,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 684
+    dps: 684,
   },
   {
     rank: 'S+',
@@ -2351,7 +2351,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 696.364
+    dps: 696.364,
   },
   {
     rank: 'S+',
@@ -2367,7 +2367,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 31.8,
     attribute: 'Virus',
     elementalAttribute: 'Light',
-    dps: 664.5
+    dps: 664.5,
   },
   {
     rank: 'S+',
@@ -2383,7 +2383,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 33.6,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 742.8
+    dps: 742.8,
   },
   {
     rank: 'S+',
@@ -2399,7 +2399,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.8,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 709.5
+    dps: 709.5,
   },
   {
     rank: 'S+',
@@ -2415,7 +2415,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 706.667
+    dps: 706.667,
   },
   {
     rank: 'S+',
@@ -2431,7 +2431,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 670.8
+    dps: 670.8,
   },
   {
     rank: 'S+',
@@ -2447,7 +2447,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 33.6,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 698.333
+    dps: 698.333,
   },
   {
     rank: 'S+',
@@ -2463,7 +2463,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 20.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Fire',
-    dps: 534.783
+    dps: 534.783,
   },
   {
     rank: 'S+',
@@ -2479,7 +2479,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.8,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 679.583
+    dps: 679.583,
   },
   {
     rank: 'S+',
@@ -2495,7 +2495,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 15,
     attribute: 'Data',
     elementalAttribute: 'Light',
-    dps: 381.304
+    dps: 381.304,
   },
   {
     rank: 'S+',
@@ -2511,7 +2511,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 21.35,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 706.316
+    dps: 706.316,
   },
   {
     rank: 'S+',
@@ -2527,7 +2527,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.4,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 666.667
+    dps: 666.667,
   },
   {
     rank: 'S+',
@@ -2543,7 +2543,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.8,
     attribute: 'Virus',
     elementalAttribute: 'Fire',
-    dps: 770.909
+    dps: 770.909,
   },
   {
     rank: 'S+',
@@ -2559,7 +2559,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 31.7,
     attribute: ' Unknown',
     elementalAttribute: ' Steel',
-    dps: 712.01
+    dps: 712.01,
   },
   {
     rank: 'SS',
@@ -2575,7 +2575,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 1017.083
+    dps: 1017.083,
   },
   {
     rank: 'SS',
@@ -2591,7 +2591,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 26.2,
     attribute: 'Unknown ',
     elementalAttribute: 'Pitch Black',
-    dps: 1052.632
+    dps: 1052.632,
   },
   {
     rank: 'SS',
@@ -2607,7 +2607,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 973.636
+    dps: 973.636,
   },
   {
     rank: 'SS',
@@ -2623,7 +2623,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 47.8,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 758.333
+    dps: 758.333,
   },
   {
     rank: 'SS',
@@ -2639,7 +2639,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 62.04,
     attribute: 'Data',
     elementalAttribute: 'Wind',
-    dps: 897.727
+    dps: 897.727,
   },
   {
     rank: 'SS',
@@ -2655,7 +2655,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 22.3,
     attribute: 'Data',
     elementalAttribute: 'Light',
-    dps: 957.5
+    dps: 957.5,
   },
   {
     rank: 'SS',
@@ -2671,7 +2671,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 49.3,
     attribute: 'Virus',
     elementalAttribute: 'Fire',
-    dps: 836.364
+    dps: 836.364,
   },
   {
     rank: 'SS',
@@ -2687,7 +2687,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 885.493
+    dps: 885.493,
   },
   {
     rank: 'SS',
@@ -2703,7 +2703,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 1002.273
+    dps: 1002.273,
   },
   {
     rank: 'SS',
@@ -2719,7 +2719,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.8,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 983.417
+    dps: 983.417,
   },
   {
     rank: 'SS',
@@ -2735,7 +2735,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 29.4,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 953.81
+    dps: 953.81,
   },
   {
     rank: 'SS',
@@ -2751,7 +2751,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 31.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Pitch Black',
-    dps: 962.273
+    dps: 962.273,
   },
   {
     rank: 'SS',
@@ -2767,7 +2767,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 36.7,
     attribute: 'Vaccine',
     elementalAttribute: 'Pitch Black',
-    dps: 909.091
+    dps: 909.091,
   },
   {
     rank: 'SS',
@@ -2783,7 +2783,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 28.6,
     attribute: ' Unknown',
     elementalAttribute: ' Steel',
-    dps: 986.667
+    dps: 986.667,
   },
   {
     rank: 'SS+',
@@ -2799,7 +2799,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 27.6,
     attribute: 'Unknown',
     elementalAttribute: 'Pitch Black',
-    dps: 1130
+    dps: 1130,
   },
   {
     rank: 'SS+',
@@ -2815,7 +2815,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 63.1,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 1032
+    dps: 1032,
   },
   {
     rank: 'SS+',
@@ -2831,7 +2831,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 31.1,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 1174.545
+    dps: 1174.545,
   },
   {
     rank: 'SS+',
@@ -2847,7 +2847,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 38.8,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 1418.4
+    dps: 1418.4,
   },
   {
     rank: 'SS+',
@@ -2863,7 +2863,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 37.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Pitch Black',
-    dps: 1220
+    dps: 1220,
   },
   {
     rank: 'SS+',
@@ -2879,7 +2879,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 32,
     attribute: 'Data',
     elementalAttribute: 'Land',
-    dps: 1410
+    dps: 1410,
   },
   {
     rank: 'SS+',
@@ -2895,7 +2895,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 33.6,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 1187.6
+    dps: 1187.6,
   },
   {
     rank: 'SS+',
@@ -2911,7 +2911,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 55.2,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 1052.34
+    dps: 1052.34,
   },
   {
     rank: 'SS+',
@@ -2927,7 +2927,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 57,
     attribute: 'Data',
     elementalAttribute: 'Wind',
-    dps: 1106.8
+    dps: 1106.8,
   },
   {
     rank: 'SS+',
@@ -2943,7 +2943,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 39.9,
     attribute: 'Virus',
     elementalAttribute: 'Fire',
-    dps: 1174.167
+    dps: 1174.167,
   },
   {
     rank: 'SS+',
@@ -2959,7 +2959,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 31.5,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 1112.857
+    dps: 1112.857,
   },
   {
     rank: 'SS+',
@@ -2975,7 +2975,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 33.6,
     attribute: 'Virus',
     elementalAttribute: 'Light',
-    dps: 1187.6
+    dps: 1187.6,
   },
   {
     rank: 'SS+',
@@ -2991,7 +2991,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 37.6,
     attribute: 'Data',
     elementalAttribute: 'Wood',
-    dps: 1144.348
+    dps: 1144.348,
   },
   {
     rank: 'SS+',
@@ -3007,7 +3007,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 33.1,
     attribute: 'Virus',
     elementalAttribute: 'Steel',
-    dps: 1257.143
+    dps: 1257.143,
   },
   {
     rank: 'SS+',
@@ -3023,7 +3023,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 61.2,
     attribute: 'Vaccine',
     elementalAttribute: 'Ice',
-    dps: 972
+    dps: 972,
   },
   {
     rank: 'SS+',
@@ -3039,7 +3039,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 63,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 974.5
+    dps: 974.5,
   },
   {
     rank: 'SS+',
@@ -3055,7 +3055,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 34.5,
     attribute: 'Vaccine',
     elementalAttribute: 'Ice',
-    dps: 1022
+    dps: 1022,
   },
   {
     rank: 'SSS',
@@ -3071,7 +3071,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.8,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 1652.083
+    dps: 1652.083,
   },
   {
     rank: 'SSS',
@@ -3087,7 +3087,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 25.8,
     attribute: 'Vaccine',
     elementalAttribute: 'Steel',
-    dps: 1706.25
+    dps: 1706.25,
   },
   {
     rank: 'SSS',
@@ -3103,7 +3103,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 30.6,
     attribute: 'Data',
     elementalAttribute: 'Land',
-    dps: 1690.833
+    dps: 1690.833,
   },
   {
     rank: 'SSS',
@@ -3119,7 +3119,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 42.5,
     attribute: 'Data',
     elementalAttribute: 'Steel',
-    dps: 1318.75
+    dps: 1318.75,
   },
   {
     rank: 'SSS',
@@ -3135,7 +3135,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 29.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 1526.786
+    dps: 1526.786,
   },
   {
     rank: 'SSS',
@@ -3151,7 +3151,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.6,
     attribute: 'Unknown',
     elementalAttribute: 'Pitch Black',
-    dps: 1366.538
+    dps: 1366.538,
   },
   {
     rank: 'SSS',
@@ -3167,7 +3167,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 39.7,
     attribute: 'Vaccine',
     elementalAttribute: 'Thunder',
-    dps: 1297.99
+    dps: 1297.99,
   },
   {
     rank: 'SSS+',
@@ -3183,7 +3183,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 42.7,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 1947.917
+    dps: 1947.917,
   },
   {
     rank: 'SSS+',
@@ -3199,7 +3199,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 40.1,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 1934.348
+    dps: 1934.348,
   },
   {
     rank: 'SSS+',
@@ -3215,7 +3215,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 45.1,
     attribute: 'Vaccine',
     elementalAttribute: 'Light',
-    dps: 2006.667
+    dps: 2006.667,
   },
   {
     rank: 'SSS+',
@@ -3231,7 +3231,7 @@ const allDigimons: DigimonInterface[] = [
     ev: 35.3,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 1978.696
+    dps: 1978.696,
   },
   {
     rank: 'SSS+',
@@ -3247,8 +3247,8 @@ const allDigimons: DigimonInterface[] = [
     ev: 42.2,
     attribute: 'Virus',
     elementalAttribute: 'Pitch Black',
-    dps: 2187.6
-  }
+    dps: 2187.6,
+  },
 ];
 
 export default allDigimons;
