@@ -2,7 +2,7 @@ import { DigimonInterface } from './models/Digimon';
 
 const allDigimons: DigimonInterface[] = [
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Anubismon',
     form: 'Mega',
     hp: 2070,
@@ -18,7 +18,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Arkadimon (Mega)',
     form: 'Mega',
     hp: 2460,
@@ -34,7 +34,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Ballistamon (Mega)',
     form: 'Mega',
     hp: 2210,
@@ -50,7 +50,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'BanchouLeomon',
     form: 'Side Mega',
     hp: 2120,
@@ -66,7 +66,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'BigMamemon',
     form: 'Mega',
     hp: 2000,
@@ -82,7 +82,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'BlackMetalGarurumon',
     form: 'Mega',
     hp: 1930,
@@ -98,7 +98,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'BlackWarGreymon',
     form: 'Mega',
     hp: 2120,
@@ -114,7 +114,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Boltmon',
     form: 'Mega',
     hp: 1880,
@@ -130,7 +130,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Brakedramon',
     form: 'Mega',
     hp: 2290,
@@ -146,7 +146,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Cherubimon',
     form: 'Mega',
     hp: 2180,
@@ -162,7 +162,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Cherubimon (White)',
     form: 'Side Mega',
     hp: 2390,
@@ -178,7 +178,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'DarkDramon',
     form: 'Mega',
     hp: 2130,
@@ -194,7 +194,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'DexDorugoramon',
     form: 'Mega',
     hp: 2460,
@@ -210,7 +210,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Diablomon',
     form: 'Mega',
     hp: 1990,
@@ -226,7 +226,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'DinoTigermon',
     form: 'Mega',
     hp: 2000,
@@ -242,7 +242,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Dorulumon (Mega)',
     form: 'Mega',
     hp: 1930,
@@ -258,7 +258,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'GrandisKuwagamon',
     form: 'Mega',
     hp: 1810,
@@ -274,7 +274,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'GranDracmon',
     form: 'Mega',
     hp: 2050,
@@ -290,7 +290,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'GranKuwagamon',
     form: 'Mega',
     hp: 1940,
@@ -306,7 +306,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Greymon (2010) (Mega)',
     form: 'Mega',
     hp: 2180,
@@ -322,7 +322,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Gryphonmon',
     form: 'Mega',
     hp: 1700,
@@ -338,7 +338,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'HerculesKabuterimon',
     form: 'Mega',
     hp: 2050,
@@ -354,7 +354,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'HiAndromon',
     form: 'Mega',
     hp: 2000,
@@ -370,7 +370,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Imperialdramon (Dragon Mode)',
     form: 'Mega',
     hp: 2050,
@@ -386,7 +386,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Imperialdramon (Fighter Mode)',
     form: 'Side Mega',
     hp: 2460,
@@ -402,7 +402,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Jijimon',
     form: 'Mega',
     hp: 2180,
@@ -418,7 +418,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Justimon',
     form: 'Mega',
     hp: 1870,
@@ -434,7 +434,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'KingChessmon',
     form: 'Mega',
     hp: 1810,
@@ -450,7 +450,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Lillymon X',
     form: 'Ultimate X',
     hp: 2020,
@@ -466,7 +466,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Lotusmon',
     form: 'Mega',
     hp: 1990,
@@ -482,7 +482,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Machinedramon',
     form: 'Mega',
     hp: 2120,
@@ -498,7 +498,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MagnaDramon',
     form: 'Mega',
     hp: 2260,
@@ -514,7 +514,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MailBirdramon (Mega)',
     form: 'Mega',
     hp: 1870,
@@ -530,7 +530,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MarineAngemon',
     form: 'Mega',
     hp: 2050,
@@ -546,7 +546,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MegaGargomon',
     form: 'Mega',
     hp: 2150,
@@ -562,7 +562,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MetalEtemon',
     form: 'Mega',
     hp: 2030,
@@ -578,7 +578,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MetalGarurumon',
     form: 'Mega',
     hp: 1930,
@@ -594,7 +594,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MetalGreymon X',
     form: 'Ultimate X',
     hp: 2190,
@@ -610,7 +610,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MetalSeadramon',
     form: 'Mega',
     hp: 2050,
@@ -626,7 +626,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Minervamon',
     form: 'Mega',
     hp: 2050,
@@ -642,7 +642,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'MirageGaogamon',
     form: 'Mega',
     hp: 1810,
@@ -658,7 +658,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Neptunemon',
     form: 'Mega',
     hp: 2250,
@@ -674,7 +674,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'OuRyumon',
     form: 'Mega',
     hp: 2130,
@@ -690,7 +690,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Phoenixmon',
     form: 'Mega',
     hp: 2120,
@@ -706,7 +706,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Piedmon',
     form: 'Mega',
     hp: 1870,
@@ -722,7 +722,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'PileVolcamon',
     form: 'Mega',
     hp: 1200,
@@ -738,7 +738,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Pukumon',
     form: 'Mega',
     hp: 2130,
@@ -754,7 +754,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Puppetmon',
     form: 'Mega',
     hp: 2050,
@@ -770,7 +770,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'QueenChessmon',
     form: 'Mega',
     hp: 1810,
@@ -786,7 +786,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Raremon (Mega)',
     form: 'Mega',
     hp: 2030,
@@ -802,7 +802,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Ravemon',
     form: 'Mega',
     hp: 1810,
@@ -818,7 +818,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Rosemon',
     form: 'Mega',
     hp: 1650,
@@ -834,7 +834,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Rosemon (Original)',
     form: 'Mega',
     hp: 1750,
@@ -850,7 +850,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'SaberLeomon',
     form: 'Mega',
     hp: 2000,
@@ -866,7 +866,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''} ,
+    rank: { name: 'A', url: '' },
     name: 'Sakuyamon',
     form: 'Mega',
     hp: 1810,
@@ -882,7 +882,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Seraphimon',
     form: 'Mega',
     hp: 2390,
@@ -898,7 +898,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'ShineGreymon',
     form: 'Mega',
     hp: 2190,
@@ -914,7 +914,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Shoutmon (Mega)',
     form: 'Mega',
     hp: 2120,
@@ -930,7 +930,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'SkullMammothmon',
     form: 'Mega',
     hp: 2030,
@@ -946,7 +946,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Slayerdramon',
     form: 'Mega',
     hp: 2190,
@@ -962,7 +962,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Sparrowmon (Mega)',
     form: 'Mega',
     hp: 1930,
@@ -978,7 +978,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Starmons (Mega)',
     form: 'Mega',
     hp: 2050,
@@ -994,7 +994,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'TigerVespamon',
     form: 'Mega',
     hp: 1700,
@@ -1010,7 +1010,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'VenomMyotismon',
     form: 'Mega',
     hp: 1870,
@@ -1026,7 +1026,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Vikemon',
     form: 'Mega',
     hp: 2280,
@@ -1042,7 +1042,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'WarGreymon',
     form: 'Mega',
     hp: 2050,
@@ -1058,7 +1058,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'WarGrowlmon X',
     form: 'Ultimate X',
     hp: 2310,
@@ -1074,7 +1074,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'WereGarurumon X',
     form: 'Ultimate X',
     hp: 1960,
@@ -1090,7 +1090,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A', url: ''},
+    rank: { name: 'A', url: '' },
     name: 'Zanbamon',
     form: 'Mega',
     hp: 2070,
@@ -1106,7 +1106,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Argomon (Mega)',
     form: 'Mega',
     hp: 2500,
@@ -1122,7 +1122,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'BlitzGreymon',
     form: 'Mega',
     hp: 2600,
@@ -1138,7 +1138,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'CresGarurumon',
     form: 'Mega',
     hp: 2500,
@@ -1154,7 +1154,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'DinoTigermon (X-Antibody System)',
     form: 'Mega X',
     hp: 2970,
@@ -1170,7 +1170,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Dorugoramon',
     form: 'Mega',
     hp: 2660,
@@ -1186,7 +1186,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Gaioumon',
     form: 'Mega X',
     hp: 3150,
@@ -1202,7 +1202,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'GrandisKuwagamon (X-Antibody System)',
     form: 'Mega X',
     hp: 2530,
@@ -1218,7 +1218,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'GranDracmon (X-Antibody System)',
     form: 'Mega X',
     hp: 2870,
@@ -1234,7 +1234,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Gulfmon',
     form: 'Mega',
     hp: 2580,
@@ -1250,7 +1250,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Imperialdramon (Dragon Mode)(Jogress)',
     form: 'Jogress',
     hp: 2240,
@@ -1266,7 +1266,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'JumboGamemon',
     form: 'Mega',
     hp: 2350,
@@ -1282,7 +1282,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Magnamon',
     form: 'Armor',
     hp: 2280,
@@ -1298,7 +1298,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Murmukusmon',
     form: 'Mega',
     hp: 2420,
@@ -1314,7 +1314,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'OuRyumon (X-Antibody System)',
     form: 'Mega X',
     hp: 3150,
@@ -1330,7 +1330,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'Parasimon',
     form: 'Mega',
     hp: 2520,
@@ -1346,7 +1346,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'A+', url: ''},
+    rank: { name: 'A+', url: '' },
     name: 'TigerVespamon (X-Antibody System)',
     form: 'Mega X',
     hp: 2530,
@@ -1362,7 +1362,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Alphamon',
     form: 'Mega',
     hp: 3250,
@@ -1378,7 +1378,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'AncientTroiamon',
     form: 'Burst Mode',
     hp: 3550,
@@ -1394,7 +1394,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Azulongmon (Mega)',
     form: 'Mega',
     hp: 3280,
@@ -1410,7 +1410,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Baihumon (Mega)',
     form: 'Mega',
     hp: 2900,
@@ -1426,7 +1426,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Barbamon',
     form: 'Mega',
     hp: 3050,
@@ -1442,7 +1442,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Beelzemon',
     form: 'Mega',
     hp: 2870,
@@ -1458,7 +1458,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Belphemon (Sleep Mode)',
     form: 'Mega',
     hp: 3350,
@@ -1474,7 +1474,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'BlackMegaGargomon',
     form: 'Burst Mode',
     hp: 3850,
@@ -1490,7 +1490,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Chaosdramon',
     form: 'Burst Mode',
     hp: 3210,
@@ -1506,7 +1506,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'ChaosGallantmon',
     form: 'Mega',
     hp: 3370,
@@ -1522,7 +1522,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'ChaosPiedmon',
     form: 'Burst Mode',
     hp: 2990,
@@ -1538,7 +1538,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Crusadermon',
     form: 'Mega',
     hp: 3050,
@@ -1554,7 +1554,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Demon',
     form: 'Mega',
     hp: 3250,
@@ -1570,7 +1570,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'DexDorugoramon (X-Antibody System)',
     form: 'Mega X',
     hp: 3610,
@@ -1586,7 +1586,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Dorugoramon (X-Antibody System)',
     form: 'Mega X',
     hp: 3720,
@@ -1602,7 +1602,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Duftmon',
     form: 'Mega',
     hp: 2960,
@@ -1618,7 +1618,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Dynasmon',
     form: 'Mega',
     hp: 3250,
@@ -1634,7 +1634,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Ebonwumon (Mega)',
     form: 'Mega',
     hp: 3330,
@@ -1650,7 +1650,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Fujinmon',
     form: 'Burst Mode',
     hp: 3090,
@@ -1666,7 +1666,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Gallantmon',
     form: 'Mega',
     hp: 3250,
@@ -1682,7 +1682,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'GigaSeadramon',
     form: 'Burst Mode',
     hp: 3570,
@@ -1698,7 +1698,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'KingEtemon',
     form: 'Side Mega',
     hp: 3010,
@@ -1714,7 +1714,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Kuzuhamon',
     form: 'Burst Mode',
     hp: 2990,
@@ -1730,7 +1730,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Leviamon',
     form: 'Mega',
     hp: 3340,
@@ -1746,7 +1746,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Lilithmon',
     form: 'Mega',
     hp: 3250,
@@ -1762,7 +1762,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Lucemon (Falldown Mode)',
     form: 'Mega',
     hp: 3250,
@@ -1778,7 +1778,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Marsmon',
     form: 'Burst Mode',
     hp: 3390,
@@ -1794,7 +1794,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'MetalGarurumon X',
     form: 'Mega X',
     hp: 3230,
@@ -1810,7 +1810,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'MirageGaogamon (Burst Mode)',
     form: 'Burst Mode',
     hp: 3820,
@@ -1826,7 +1826,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Ophanimon',
     form: 'Side Mega',
     hp: 3940,
@@ -1842,7 +1842,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Ornismon',
     form: 'Burst Mode',
     hp: 3080,
@@ -1858,7 +1858,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Plesiomon',
     form: 'Burst Mode',
     hp: 3600,
@@ -1874,7 +1874,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'PrinceMamemon',
     form: 'Burst Mode',
     hp: 3170,
@@ -1890,7 +1890,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Raguelmon',
     form: 'Burst Mode',
     hp: 3290,
@@ -1906,7 +1906,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Ravemon (Burst Mode)',
     form: 'Burst Mode',
     hp: 3520,
@@ -1922,7 +1922,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Rosemon (Burst Mode)',
     form: 'Burst Mode',
     hp: 3520,
@@ -1938,7 +1938,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Rosemon X',
     form: 'Mega X',
     hp: 3030,
@@ -1954,7 +1954,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'ShadowSeraphimon',
     form: 'Burst Mode',
     hp: 3110,
@@ -1970,7 +1970,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Shakkoumon (Jogress)',
     form: 'Jogress',
     hp: 4310,
@@ -1986,7 +1986,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'ShineGreymon (Burst Mode)',
     form: 'Burst Mode',
     hp: 4340,
@@ -2002,7 +2002,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Shoutmon X2',
     form: 'Jogress',
     hp: 3290,
@@ -2018,7 +2018,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Shoutmon X3',
     form: 'Jogress',
     hp: 3700,
@@ -2034,7 +2034,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Silphymon (Jogress)',
     form: 'Jogress',
     hp: 3820,
@@ -2050,7 +2050,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Sleipmon',
     form: 'Mega',
     hp: 3050,
@@ -2066,7 +2066,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'TyrantKabuterimon',
     form: 'Burst Mode',
     hp: 3390,
@@ -2082,7 +2082,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'UlforceVeedramon',
     form: 'Mega',
     hp: 2870,
@@ -2098,7 +2098,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'UlforceVeedramon Future Mode',
     form: 'Burst Mode',
     hp: 3940,
@@ -2114,7 +2114,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Valdurmon',
     form: 'Burst Mode',
     hp: 3390,
@@ -2130,7 +2130,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'VictoryGreymon',
     form: 'Side Mega',
     hp: 3710,
@@ -2146,7 +2146,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'WarGreymon X',
     form: 'Mega X',
     hp: 3390,
@@ -2162,7 +2162,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Z\'dGarurumon',
     form: 'Side Mega',
     hp: 3390,
@@ -2178,7 +2178,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S', url: ''},
+    rank: { name: 'S', url: '' },
     name: 'Zhuqiaomon (Mega)',
     form: 'Mega',
     hp: 3180,
@@ -2194,7 +2194,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Aegisdramon',
     form: 'Burst Mode',
     hp: 4900,
@@ -2210,7 +2210,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Alphamon (X-Antibody System)',
     form: 'Mega X',
     hp: 4550,
@@ -2226,7 +2226,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Armageddemon',
     form: 'Burst Mode',
     hp: 4380,
@@ -2242,7 +2242,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Beelzemon (Blast Mode)',
     form: 'Burst Mode',
     hp: 3700,
@@ -2258,7 +2258,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Belphemon (Rage Mode)',
     form: 'Burst Mode',
     hp: 4130,
@@ -2274,7 +2274,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Craniamon',
     form: 'Burst Mode',
     hp: 4290,
@@ -2290,7 +2290,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Demon (Beast Mode)',
     form: 'Burst Mode',
     hp: 4130,
@@ -2306,7 +2306,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Dexmon',
     form: 'Burst Mode',
     hp: 4130,
@@ -2322,7 +2322,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Gallantmon (Crimson Mode)',
     form: 'Burst Mode',
     hp: 3880,
@@ -2338,7 +2338,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Gankoomon',
     form: 'Burst Mode',
     hp: 4570,
@@ -2354,7 +2354,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'GigaSeadramon (X-Antibody System)',
     form: 'Burst Mode X',
     hp: 5000,
@@ -2370,7 +2370,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Imperialdramon (Fighter Mode)(Jogress)',
     form: 'Jogress',
     hp: 4130,
@@ -2386,7 +2386,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Imperialdramon (Paladin Mode)',
     form: 'Burst Mode',
     hp: 4010,
@@ -2402,7 +2402,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Jesmon',
     form: 'Burst Mode',
     hp: 4570,
@@ -2418,7 +2418,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'KaiserGreymon',
     form: 'Z-Hybrid',
     hp: 4500,
@@ -2434,7 +2434,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Lucemon Larva',
     form: 'Burst Mode',
     hp: 3230,
@@ -2450,7 +2450,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'MagnaGarurumon',
     form: 'Z-Hybrid',
     hp: 3910,
@@ -2466,7 +2466,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Magnamon X',
     form: 'Mega X',
     hp: 4700,
@@ -2482,7 +2482,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'MaloMyotismon',
     form: 'Burst Mode',
     hp: 3880,
@@ -2498,7 +2498,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Megidramon',
     form: 'Burst Mode',
     hp: 4430,
@@ -2514,7 +2514,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'S+', url: ''},
+    rank: { name: 'S+', url: '' },
     name: 'Shoutmon X4',
     form: 'Jogress',
     hp: 4430,
@@ -2530,7 +2530,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Alphamon Ouryuken',
     form: 'Jogress',
     hp: 6300,
@@ -2546,7 +2546,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Apocalymon (Psychic)',
     form: 'Variant',
     hp: 6680,
@@ -2562,7 +2562,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Dexmon (X-Antibody System)',
     form: 'Burst Mode X',
     hp: 5780,
@@ -2578,7 +2578,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Duftmon X',
     form: 'Mega X',
     hp: 4840,
@@ -2594,7 +2594,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Dynasmon X',
     form: 'Mega X',
     hp: 4520,
@@ -2610,7 +2610,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Examon',
     form: 'Jogress',
     hp: 5930,
@@ -2626,7 +2626,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Gallantmon X',
     form: 'Mega X',
     hp: 5270,
@@ -2642,7 +2642,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Lucemon (Satan Mode)',
     form: 'Burst Mode',
     hp: 5510,
@@ -2658,7 +2658,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Mastemon',
     form: 'Jogress',
     hp: 6300,
@@ -2674,7 +2674,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Millenniumon',
     form: 'Jogress',
     hp: 5920,
@@ -2690,7 +2690,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Omegamon',
     form: 'Jogress',
     hp: 5620,
@@ -2706,7 +2706,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Omegamon Zwart',
     form: 'Jogress',
     hp: 5800,
@@ -2722,7 +2722,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Ophanimon Falldown Mode',
     form: 'Burst Mode',
     hp: 5710,
@@ -2738,7 +2738,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS', url: ''},
+    rank: { name: 'SS', url: '' },
     name: 'Shoutmon X5',
     form: 'Jogress',
     hp: 6110,
@@ -2754,7 +2754,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Armageddemon (Conflation)',
     form: 'Variant',
     hp: 7000,
@@ -2770,7 +2770,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Beelzemon X',
     form: 'Mega X',
     hp: 6090,
@@ -2786,7 +2786,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Boltboutamon',
     form: 'Jogress',
     hp: 7150,
@@ -2802,7 +2802,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Chaosdramon X',
     form: 'Burst Mode X',
     hp: 5650,
@@ -2818,7 +2818,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Chaosmon',
     form: 'Jogress',
     hp: 7610,
@@ -2834,7 +2834,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Fanglongmon',
     form: 'Jogress',
     hp: 8650,
@@ -2850,7 +2850,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Imperialdramon (Paladin Mode)(Jogress)',
     form: 'Jogress',
     hp: 7090,
@@ -2866,7 +2866,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'LordKnightmon X',
     form: 'Mega X',
     hp: 6340,
@@ -2882,7 +2882,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'MedievalDukemon',
     form: 'Mega X',
     hp: 5580,
@@ -2898,7 +2898,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Megidramon X',
     form: 'Burst Mode X',
     hp: 6840,
@@ -2914,7 +2914,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Moon Millenniumon',
     form: 'Jogress',
     hp: 7110,
@@ -2930,7 +2930,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Omegamon Alter-S',
     form: 'Jogress',
     hp: 7310,
@@ -2946,7 +2946,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Rafflesimon',
     form: 'Jogress',
     hp: 6680,
@@ -2962,7 +2962,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'RustTyrannomon',
     form: 'Jogress',
     hp: 7380,
@@ -2978,7 +2978,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Sleipmon X',
     form: 'Mega X',
     hp: 6090,
@@ -2994,7 +2994,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'UlforceVeedramon X',
     form: 'Mega X',
     hp: 7470,
@@ -3010,7 +3010,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SS+', url: ''},
+    rank: { name: 'SS+', url: '' },
     name: 'Valkyrimon',
     form: 'Jogress',
     hp: 5920,
@@ -3026,7 +3026,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS', url: ''},
+    rank: { name: 'SSS', url: '' },
     name: 'Alphamon Ouryuken (X-Antibody System)',
     form: 'Jogress X',
     hp: 10230,
@@ -3042,7 +3042,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS', url: ''},
+    rank: { name: 'SSS', url: '' },
     name: 'Craniamon X',
     form: 'Burst Mode X',
     hp: 9040,
@@ -3058,7 +3058,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS', url: ''},
+    rank: { name: 'SSS', url: '' },
     name: 'Fanglongmon (Shin)',
     form: 'Jogress',
     hp: 10900,
@@ -3074,7 +3074,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS', url: ''},
+    rank: { name: 'SSS', url: '' },
     name: 'Jesmon X',
     form: 'Burst Mode X',
     hp: 8170,
@@ -3090,7 +3090,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS', url: ''},
+    rank: { name: 'SSS', url: '' },
     name: 'Ogudomon',
     form: 'Variant',
     hp: 8690,
@@ -3106,7 +3106,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS', url: ''},
+    rank: { name: 'SSS', url: '' },
     name: 'Ordinemon',
     form: 'Jogress',
     hp: 8100,
@@ -3122,7 +3122,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS', url: ''},
+    rank: { name: 'SSS', url: '' },
     name: 'Susanoomon',
     form: 'O-Hybrid',
     hp: 7820,
@@ -3138,7 +3138,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS+', url: ''},
+    rank: { name: 'SSS+', url: '' },
     name: 'Alphamon Ouryuken (Awaken)',
     form: 'Jogress X',
     hp: 12070,
@@ -3154,7 +3154,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS+', url: ''},
+    rank: { name: 'SSS+', url: '' },
     name: 'Omegamon Alter-B',
     form: 'Jogress',
     hp: 12070,
@@ -3170,7 +3170,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS+', url: ''},
+    rank: { name: 'SSS+', url: '' },
     name: 'Omegamon X',
     form: 'Jogress X',
     hp: 11340,
@@ -3186,7 +3186,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS+', url: ''},
+    rank: { name: 'SSS+', url: '' },
     name: 'Omegamon Zwart D',
     form: 'Jogress',
     hp: 12340,
@@ -3202,7 +3202,7 @@ const allDigimons: DigimonInterface[] = [
     url: '',
   },
   {
-    rank: { name: 'SSS+', url: ''},
+    rank: { name: 'SSS+', url: '' },
     name: 'ZeedMillenniummon',
     form: 'Jogress',
     hp: 14210,
